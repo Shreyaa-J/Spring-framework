@@ -1,0 +1,6 @@
+package com.entity;
+
+public class Employee {
+   private int emp_ID;
+   
+}
